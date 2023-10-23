@@ -32,7 +32,7 @@ Hill climbing is a variant of Generate and test in which feedback from test proc
 
 
 ## PROGRAM:
-python
+```python
 import random
 import string
 def generate_random_solution(answer):
@@ -70,7 +70,7 @@ def SimpleHillClimbing():
 #print(evaluate(solution,answer))
 SimpleHillClimbing()
 
-
+```
 ### Sample Input and Output:
 
 <b> SAMPLE STRING: </b>   Artificial Intelligence
